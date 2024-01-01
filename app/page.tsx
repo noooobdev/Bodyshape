@@ -1,5 +1,10 @@
 import Image from "next/image";
+import Navbar from "./Components/Navbar";
 
 export default function Home() {
-  return <div>MTN</div>;
+  return (
+    <div className="font-roboto">
+      <Navbar />
+    </div>
+  );
 }
