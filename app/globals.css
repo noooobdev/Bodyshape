@@ -4,3 +4,12 @@
 @tailwind utilities;
 
 
+.custom-image{
+    background-image: url('https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    object-fit: fill;
+
+}
+
+.custom-image-plan{
+    background-image: url('https://i.pinimg.com/originals/25/e9/cf/25e9cfbebbc5eeb3ec11f926aecac4ef.jpg');
+}
