@@ -11,5 +11,8 @@
 }
 
 .custom-image-plan{
-    background-image: url('https://i.pinimg.com/originals/25/e9/cf/25e9cfbebbc5eeb3ec11f926aecac4ef.jpg');
-}
+    background-image: url('https://wallpaperaccess.com/full/8286338.jpg');
+    background-color: gray;
+    background-blend-mode: multiply;
+    
+    }
