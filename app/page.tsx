@@ -2,6 +2,7 @@ import Navbar from "./Components/Navbar";
 import Hero from "./Components/Hero";
 import Plans from "./Components/Plans";
 import Subscribe from "./Components/Subscribe";
+import Trainer from "./Components/Trainer";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Hero />
       <Plans />
       <Subscribe />
+      <Trainer />
     </div>
   );
 }

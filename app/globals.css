@@ -16,3 +16,51 @@
     background-blend-mode: multiply;
     
     }
+
+.content-div{
+        background-image:url('https://rare-gallery.com/thumbnail/74318-Gym-Long-Hair-Black-Hair-WomanFitness-4k-Ultra-HD.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position:center;
+        object-fit: fill;  
+      }
+
+.content-div1{
+        background-image:url('https://img.freepik.com/free-photo/powerful-stylish-bodybuilder-with-tattoo-his-arm-doing-exercises-with-dumbbells-isolated-dark-background_613910-5202.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position:center;
+        object-fit: fill;  
+      }
+
+.content-div2{
+        background-image:url('https://e0.pxfuel.com/wallpapers/685/100/desktop-wallpaper-girl-gym-bodybuilding-girl.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position:center;
+        object-fit: fill;  
+      }
+.content-div:hover{
+          background-image:
+          linear-gradient(to right,
+           rgba(7, 7, 7, 0.801), hsla(180, 4%, 5%, 0.801) ),
+           url('https://rare-gallery.com/thumbnail/74318-Gym-Long-Hair-Black-Hair-WomanFitness-4k-Ultra-HD.jpg');
+          }
+
+.content-div1:hover{
+            background-image:
+            linear-gradient(to right,
+             rgba(7, 7, 7, 0.801), hsla(180, 4%, 5%, 0.801) ),
+             url('https://img.freepik.com/free-photo/powerful-stylish-bodybuilder-with-tattoo-his-arm-doing-exercises-with-dumbbells-isolated-dark-background_613910-5202.jpg');
+            }
+
+.content-div2:hover{
+                background-image:
+                linear-gradient(to right,
+                 rgba(7, 7, 7, 0.801), hsla(180, 4%, 5%, 0.801) ),
+                 url('https://e0.pxfuel.com/wallpapers/685/100/desktop-wallpaper-girl-gym-bodybuilding-girl.jpg');
+                }
+      
+    
+       
+      
