@@ -1,6 +1,7 @@
 import Navbar from "./Components/Navbar";
 import Hero from "./Components/Hero";
 import Plans from "./Components/Plans";
+import Subscribe from "./Components/Subscribe";
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <Plans />
+      <Subscribe />
     </div>
   );
 }

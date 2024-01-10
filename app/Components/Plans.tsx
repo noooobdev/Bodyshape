@@ -9,35 +9,9 @@ import { BiDumbbell } from "react-icons/bi";
 import { LiaRunningSolid } from "react-icons/lia";
 
 const Plans = () => {
-  const plan = [
-    {
-      title: "Weight Loss",
-      desc: "Weight loss can have causes that aren't due to underlying disease. Examples include dieting, exercise, malnutrition or lack of access to food.",
-    },
-    {
-      title: "Body Building",
-      desc: "Weight loss can have causes that aren't due to underlying disease. Examples include dieting, exercise, malnutrition or lack of access to food.",
-    },
-    {
-      title: "Classic Yoga",
-      desc: "Weight loss can have causes that aren't due to underlying disease. Examples include dieting, exercise, malnutrition or lack of access to food.",
-    },
-    {
-      title: "Masculation",
-      desc: "Weight loss can have causes that aren't due to underlying disease. Examples include dieting, exercise, malnutrition or lack of access to food.",
-    },
-    {
-      title: "Cycling",
-      desc: "Weight loss can have causes that aren't due to underlying disease. Examples include dieting, exercise, malnutrition or lack of access to food.",
-    },
-    {
-      title: "Fitness Running",
-      desc: "Weight loss can have causes that aren't due to underlying disease. Examples include dieting, exercise, malnutrition or lack of access to food.",
-    },
-  ];
   return (
     <div className="h-[1000px] bg-cover custom-image-plan ">
-      <h1 className="text-5xl font-semibold text-white px-16 py-16">
+      <h1 className="text-5xl font-semibold text-white px-16 py-28">
         Fitness Plans & <span className="text-[#FF921B]">Nutritions</span>
       </h1>
       <div className="flex justify-center">
