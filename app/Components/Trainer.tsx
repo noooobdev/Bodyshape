@@ -14,6 +14,7 @@ const Trainer = () => {
             <span className="text-3xl font-bold text-white tracking-wider leading-relaxed ">
               Amanda Rodriguez
             </span>
+            <p className="text-white text-center">Personal Trainer</p>
           </div>
         </div>
 
@@ -24,6 +25,7 @@ const Trainer = () => {
             <span className="text-3xl font-bold text-white tracking-wider leading-relaxed ">
               Jack Jones
             </span>
+            <p className="text-white text-center">Personal Trainer</p>
           </div>
         </div>
 
@@ -34,6 +36,7 @@ const Trainer = () => {
             <span className="text-3xl font-bold text-white tracking-wider leading-relaxed ">
               Emily Blunt
             </span>
+            <p className="text-white text-center">Personal Trainer</p>
           </div>
         </div>
       </div>

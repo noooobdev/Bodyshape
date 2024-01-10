@@ -3,6 +3,7 @@ import Hero from "./Components/Hero";
 import Plans from "./Components/Plans";
 import Subscribe from "./Components/Subscribe";
 import Trainer from "./Components/Trainer";
+import Footer from "./Components/Footer";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Plans />
       <Subscribe />
       <Trainer />
+      <Footer />
     </div>
   );
 }
