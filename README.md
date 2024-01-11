@@ -1,3 +1,3 @@
 # Bodyshape (UI only).
 
-### Shape you body.🏋️
+### Shape your body.🏋️
