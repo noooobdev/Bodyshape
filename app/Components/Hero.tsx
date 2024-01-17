@@ -4,7 +4,7 @@ import PlayLogo from "../Assets/PlayLogo";
 
 const Hero = () => {
   return (
-    <div className="h-[900px] sm:w-full bg-cover custom-image ">
+    <div className="h-[900px] bg-cover custom-image ">
       <div className="py-20 p-2">
         <div className="bg-gradient-to-b from-[#1d1d1d] to-black lg:py-5 md:py-3 sm:py-2 lg:px-12 md:px-5 sm:px-2 lg:w-2/5 md:w-2/5 sm:w-1/3  flex flex-col gap-5">
           <h1 className="text-white font-semibold lg:text-6xl md:text-4xl sm:text-3xl">

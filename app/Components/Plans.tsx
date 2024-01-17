@@ -23,7 +23,7 @@ const Plans = () => {
             </div>
             <h1 className="text-center text-xl font-semibold">Weight Loss</h1>
             <p className="text-center text-xs px-5 font-semibold text-zinc-500">
-              Weight loss can have causes that aren't due to underlying disease.
+              Weight loss can have causes that arent due to underlying disease.
               Examples include dieting, exercise, malnutrition or lack of access
               to food.
             </p>
@@ -35,7 +35,7 @@ const Plans = () => {
             <h1 className="text-center text-xl font-semibold">Body Building</h1>
             <p className="text-center text-xs px-5 font-semibold text-zinc-500">
               Bodybuilding is the use of progressive resistance exercise to
-              control and develop one's muscles by muscle hypertrophy for
+              control and develop ones muscles by muscle hypertrophy for
               aesthetic purposes.
             </p>
           </div>
@@ -45,8 +45,8 @@ const Plans = () => {
             </div>
             <h1 className="text-center text-xl font-semibold">Classic Yoga</h1>
             <p className="text-center text-xs px-5 font-semibold text-zinc-500">
-              The term "yoga" in the Western world often denotes a modern form
-              of Hatha yoga and a posture-based physical fitness, stress-relief.
+              The term yoga in the Western world often denotes a modern form of
+              Hatha yoga and a posture-based physical fitness, stress-relief.
             </p>
           </div>
           <div className="flex flex-col justify-center py-10 px-10 gap-6  border-[#FF921B]">
