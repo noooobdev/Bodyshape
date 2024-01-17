@@ -5,10 +5,10 @@ import RightLogo from "../Assets/Logo/RightLogo";
 const Navbar = () => {
   const [active, setActive] = useState("Home");
   const nav = [
-    { name: "Home" },
-    { name: "Services" },
-    { name: "About" },
-    { name: "Contact" },
+    { id: 1, name: "Home" },
+    { id: 2, name: "About" },
+    { id: 3, name: "Services" },
+    { id: 4, name: "Contact" },
   ];
 
   const handleClick = (name: string) => {
@@ -29,6 +29,7 @@ const Navbar = () => {
       <div className="flex gap-10 text-lg">
         {nav?.map((e) => (
           <button
+            key={e.id}
             onClick={() => handleClick(e.name)}
             className={`px-2 ${
               active === e.name ? " border-b-2 border-[#ff921b]" : ""
