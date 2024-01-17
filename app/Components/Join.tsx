@@ -9,7 +9,7 @@ const Join = () => {
             Why Join With <span className="text-[#FF921B]">Us?</span>
           </h1>
           <div className="pl-20">
-            <div className="bg-gradient-to-b from-[#080808] to-black ">
+            <div className="bg-gradient-to-b from-[#080808] to-black pb-5">
               <ol className="marker:text-[#ff921b] marker:text-xl list-disc p-10">
                 <div className="text-white text-xl font-medium">
                   <li>Best Gym</li>
